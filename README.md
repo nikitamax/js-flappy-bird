@@ -1,2 +1,2 @@
 # js-flappy-bird
-Only JS
+Vanilla JS
